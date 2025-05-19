@@ -37,6 +37,14 @@
 
 ---
 
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsingh-dev&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🔗 Let's Connect
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/amit-singh-2788a5259/)
