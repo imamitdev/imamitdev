@@ -3,7 +3,7 @@
 <h3 align="center">💻 Python Django Developer | ☁️ Cloud & AI Learner | ⚙️ Tech Explorer</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitsingh-dev&label=Visitors&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imamitdev&label=Visitors&color=0e75b6&style=flat-square" alt="profile views" />
 </div>
 
 ---
@@ -28,11 +28,11 @@
 ### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitsingh-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imamitdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsingh-dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamitdev&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsingh-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamitdev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsingh-dev&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imamitdev&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
