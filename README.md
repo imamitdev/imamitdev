@@ -17,34 +17,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git" />
-</p>
-
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imamitdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamitdev&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamitdev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imamitdev&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/amit-singh-2788a5259/)
