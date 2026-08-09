@@ -23,9 +23,3 @@
 - 🌐 [Portfolio](https://imamitdev.github.io/)
 - 📧 Email: imamitsinghchauhan@gmail.com
 
----
-
-<!-- Footer -->
-<p align="center">
-  Made with ❤️ by Amit Singh
-</p>
