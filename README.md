@@ -2,9 +2,6 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#0a66c2">Amit Singh</span> 👋</h1>
 <h3 align="center">💻 Python Django Developer | ☁️ Cloud & AI Learner | ⚙️ Tech Explorer</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imamitdev&label=Visitors&color=0e75b6&style=flat-square" alt="profile views" />
-</div>
 
 ---
 
