@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/me.jpg" alt="Amit Singh" width="130">
-</p>
-
-<p align="center">
   <a href="https://imamitdev.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/amit-singh-2788a5259/">LinkedIn</a> ·
   <a href="mailto:imamitsinghchauhan@gmail.com">Email</a>
